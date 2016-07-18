@@ -4,3 +4,4 @@ Hi, test for git diff
 <<<<<<< HEAD
 - feature A
 - fix-B
+- feature-C
