@@ -6,3 +6,4 @@ Hi, test for git diff
 - fix-B
 - feature-C
 - feature-D
+- feature-E
